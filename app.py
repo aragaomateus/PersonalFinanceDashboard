@@ -5,7 +5,7 @@ import json
 import os
 import expense_tracker as et 
 import budget as bt
-import expenses as exp
+import cash_flow as cf
 st.set_page_config(page_title="Personal Finance Tracker")
 
 def get_stock_data(ticker_symbol, start_date, end_date):
@@ -32,7 +32,7 @@ def main():
     if  page == "Cash Flow":
         st.title("Cash Flow")
 
-        exp.show_expenses()
+        cf.show_cashFlow()
         
     elif page == "Set Budget":
         st.title("Budget")
