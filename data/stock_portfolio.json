@@ -1,0 +1,46 @@
+{
+    "NU": {
+        "num_shares": 63.29,
+        "avg_cost": 5.43,
+        "class":"stock"
+    },
+    "STNE": {
+        "num_shares": 41.122466,
+        "avg_cost": 12.19,
+        "class":"stock"
+    },
+    "ONON": {
+        "num_shares": 16.218791,
+        "avg_cost": 25.99,
+        "class":"stock"
+    },"DECK": {
+        "num_shares": 0.21586,
+        "avg_cost": 509.59,
+        "class":"stock"
+    },
+    "TSM": {
+        "num_shares": 1,
+        "avg_cost": 92.57,
+        "class":"stock"
+    },
+    "SPY": {
+        "num_shares": 0.855191,
+        "avg_cost": 423.41,
+        "class":"ETF"
+    },
+    "SMH": {
+        "num_shares": 0.658136,
+        "avg_cost": 151.94,
+        "class":"ETF"
+    },
+    "EWZ": {
+        "num_shares":  2.810434,
+        "avg_cost": 32.02,
+        "class":"ETF"
+    },
+    "COWZ": {
+        "num_shares": 1.198771,
+        "avg_cost": 50.05,
+        "class":"ETF"
+    }
+}

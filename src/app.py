@@ -5,7 +5,7 @@ import json
 import os
 import budget as bt
 import cash_flow as cf
-import investments as ivt 
+import src.investments as ivt 
 st.set_page_config(page_title="Personal Finance Tracker",layout="wide")
 
 
